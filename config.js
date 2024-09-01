@@ -14,7 +14,7 @@ global.authFile = `MysticSession`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['201006130651', '👑 مطورس 👑', true],
+  ['201006130651', '👑 مطوري 👑', true],
   ['201284296750']
 ];
 
